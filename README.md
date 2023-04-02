@@ -16,4 +16,6 @@ My personal :triangular_flag_on_post:  goal was to complete my _FreeCodeCamp_ **
 - [Functional Programming](https://github.com/gnasamx/FreeCodeCamp/tree/master/Functional%20Programming)
 - [Intermediate Algorithm Scripting](https://github.com/gnasamx/FreeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
 - [JavaScript Algorithms & Data Structures](https://github.com/gnasamx/FreeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects)
+
+
 you can verify the certification at https://www.freecodecamp.org/certification/ahmed_bouhachem/javascript-algorithms-and-data-structures
