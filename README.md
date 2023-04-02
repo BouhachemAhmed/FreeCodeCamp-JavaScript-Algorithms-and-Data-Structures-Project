@@ -2,7 +2,7 @@
 
 My personal :triangular_flag_on_post:  goal was to complete my _FreeCodeCamp_ **JavaScript Algorithm & Data Structures** certification, and :tada: here it is.
 
-![My Certificate](https://github.com/gnasamx/FreeCodeCamp/blob/master/Certificate/FreeCodeCamp%20Certificaite.png)
+![image](https://user-images.githubusercontent.com/61451186/229382090-bffc7242-f6ff-4a6b-a9c2-2f9ff483af68.png)
 
 ### Things I Learned
 
